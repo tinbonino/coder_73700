@@ -2,7 +2,7 @@
 export const productos = [
     { id: 1, nombre: "Manzana", precio: 1.2, descripcion: "Fruta fresca, rica en fibra y vitaminas.", categoria: "Frutas y Verduras" },
     { id: 2, nombre: "Pan integral", precio: 2.5, descripcion: "Pan saludable elaborado con harina integral.", categoria: "Panadería y Cereales" },
-    { id: 3, nombre: "Leche", precio: 1.8, descripcion: "Leche fresca y pasteurizada, rica en calcio.", categoria: "" },"Lácteos"
+    { id: 3, nombre: "Leche", precio: 1.8, descripcion: "Leche fresca y pasteurizada, rica en calcio.", categoria: "Lácteos" },
     { id: 4, nombre: "Yogur natural", precio: 3.0, descripcion: "Yogur cremoso sin azúcar, ideal para desayunos.", categoria: "Frutas y Verduras" },
     { id: 5, nombre: "Avena", precio: 1.5, descripcion: "Cereal integral ideal para un desayuno energético.", categoria: "Lácteos" },
     { id: 6, nombre: "Huevos", precio: 2.3, descripcion: "Huevos frescos de granja, ricos en proteínas.", categoria: "Panadería y Cereales" },
